@@ -1,12 +1,12 @@
 # TryHackMe Journey - Tanishq Nama
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity%20Learning-blue)](https://tryhackme.com/p/TanishqNama)  
-This repository chronicles my cybersecurity learning journey on [TryHackMe](https://tryhackme.com), covering a wide range of topics from beginner to advanced. Rooms are organized by category for easy navigation and reference.
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity%20Learning-blue)](https://tryhackme.com/p/ultrew)  
+This repository contains lab of cybersecurity learning on [TryHackMe](https://tryhackme.com), covering a wide range of topics from beginner to advanced. Rooms are organized by category for easy navigation and reference.
 
 ---
 
 ## 📖 About
-This repository documents my hands-on progress through TryHackMe's interactive rooms, spanning fundamentals, penetration testing, forensics, CTFs, and more. It serves as a personal tracker and a resource for others in the cybersecurity community. Fork, clone, or contribute to share your own journey!
+This repository provide hand's on labs list of TryHackMe's interactive rooms, spanning fundamentals, penetration testing, forensics, CTFs, and more. It serves as a personal tracker and a resource for others in the cybersecurity community. Fork, clone, or contribute to share your own journey!
 
 ---
 
