@@ -6,7 +6,7 @@ This repository contains lab of cybersecurity learning on [TryHackMe](https://tr
 ---
 
 ## 📖 About
-This repository provide hand's on labs list of TryHackMe's interactive rooms, spanning fundamentals, penetration testing, forensics, CTFs, and more. It serves as a personal tracker and a resource for others in the cybersecurity community. Fork, clone, or contribute to share your own journey!
+This repository provide labs list of TryHackMe's interactive rooms, spanning fundamentals, penetration testing, forensics, CTFs, and more. It serves as a personal tracker and a resource for others in the cybersecurity community. Fork, clone, or contribute to share your own journey!
 
 ---
 
