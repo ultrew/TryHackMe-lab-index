@@ -1,7 +1,7 @@
 # TryHackMe lab index- Tanishq Nama
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity%20Learning-blue)](https://tryhackme.com/p/ultrew)  
-This repository contains lab of cybersecurity learning on [TryHackMe](https://tryhackme.com), covering a wide range of topics from beginner to advanced. Rooms are organized by category for easy navigation and reference.
+This repository contains labs of cybersecurity learning on [TryHackMe](https://tryhackme.com), covering a wide range of topics from beginner to advanced. Rooms are organized by category for easy navigation and reference.
 
 ---
 
